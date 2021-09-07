@@ -45,3 +45,6 @@
 - numpy 
 - matplotlib
 - seaborn
+
+## Статус проекта
+- Завершён
